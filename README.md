@@ -12,7 +12,7 @@ https://chromewebstore.google.com/detail/requestly-intercept-modif/mdnleldcmiljb
 
 导入文件 blum.json
 
-![image-20240617232424140](/Volumes/ssd/workspace/web3/blum/blum-bot/image/image-20240617232424140.png)
+![image-20240617232424140](./image/image-20240617232424140.png)
 
 
 
@@ -22,4 +22,4 @@ https://chromewebstore.google.com/detail/requestly-intercept-modif/mdnleldcmiljb
 
 打开blum游戏后发现有标签即可点击开始，游戏会自动运行
 
-![8496a585dc21e69e9bb8e1322781944d_720](/Volumes/ssd/workspace/web3/blum/blum-bot/image/8496a585dc21e69e9bb8e1322781944d_720.png)
+![8496a585dc21e69e9bb8e1322781944d_720](./image/8496a585dc21e69e9bb8e1322781944d_720.png)
